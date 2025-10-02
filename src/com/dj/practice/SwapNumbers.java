@@ -22,7 +22,7 @@ public class SwapNumbers {
 		
 		System.out.println("Numbers after swapping - x = " + x + " | y = " + y);
 		
-	
+		s.close();
 	}
 
 }
